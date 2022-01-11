@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2E62F897-11BC-4875-91AB-784B6A7E6A34}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proyecto_2018_2019_Wall_E</RootNamespace>
+    <AssemblyName>Proyecto 2018-2019 Wall-E</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actions\Backward.cs" />
+    <Compile Include="Actions\Drop.cs" />
+    <Compile Include="Actions\Forward.cs" />
+    <Compile Include="Actions\Left.cs" />
+    <Compile Include="Actions\Right.cs" />
+    <Compile Include="Autoguide.cs" />
+    <Compile Include="Call.cs" />
+    <Compile Include="Flow Control\Conditionals.cs" />
+    <Compile Include="Direction.cs" />
+    <Compile Include="Flow Control\T_East.cs" />
+    <Compile Include="Flow Control\T_North.cs" />
+    <Compile Include="Flow Control\T_South.cs" />
+    <Compile Include="Flow Control\T_West.cs" />
+    <Compile Include="Get.cs" />
+    <Compile Include="GetAt.cs" />
+    <Compile Include="Instructions_Consumer.cs" />
+    <Compile Include="Instructions_Dictionary.cs" />
+    <Compile Include="Flow Control\NorthEast.cs" />
+    <Compile Include="Flow Control\NorthWest.cs" />
+    <Compile Include="Number.cs" />
+    <Compile Include="Objects\Box.cs" />
+    <Compile Include="Objects\IMobile.cs" />
+    <Compile Include="Objects\ITakeable.cs" />
+    <Compile Include="Objects\IValue.cs" />
+    <Compile Include="Objects\Plant.cs" />
+    <Compile Include="Objects\Sphere.cs" />
+    <Compile Include="One.cs" />
+    <Compile Include="Operators\And.cs" />
+    <Compile Include="Operators\Decrease.cs" />
+    <Compile Include="Operators\Division.cs" />
+    <Compile Include="Operators\Equals.cs" />
+    <Compile Include="Operators\GEQ.cs" />
+    <Compile Include="Operators\GT.cs" />
+    <Compile Include="Operators\Increase.cs" />
+    <Compile Include="Operators\LAnd.cs" />
+    <Compile Include="Operators\LEQ.cs" />
+    <Compile Include="Operators\LNot.cs" />
+    <Compile Include="Operators\Lor.cs" />
+    <Compile Include="Operators\LT.cs" />
+    <Compile Include="Operators\LXor.cs" />
+    <Compile Include="Operators\Module.cs" />
+    <Compile Include="Operators\Multiplication.cs" />
+    <Compile Include="Operators\Not.cs" />
+    <Compile Include="Operators\NotEquals.cs" />
+    <Compile Include="Operators\Or.cs" />
+    <Compile Include="Operators\Substraction.cs" />
+    <Compile Include="Operators\Sum.cs" />
+    <Compile Include="Operators\Ternary.cs" />
+    <Compile Include="Position.cs" />
+    <Compile Include="Print.cs" />
+    <Compile Include="RecCall.cs" />
+    <Compile Include="Return.cs" />
+    <Compile Include="RobotObjects\BarbacodeScanner.cs" />
+    <Compile Include="RobotObjects\Chronometer.cs" />
+    <Compile Include="RobotObjects\Kinnect.cs" />
+    <Compile Include="RobotObjects\Ultrasonic.cs" />
+    <Compile Include="RobotObjects\Compass.cs" />
+    <Compile Include="RobotObjects\WebCam.cs" />
+    <Compile Include="RobotObjects\Weight.cs" />
+    <Compile Include="RobotObjects\Sensors.cs" />
+    <Compile Include="Routine.cs" />
+    <Compile Include="Sensors\BarbacodeScanner.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="Instructions.cs" />
+    <Compile Include="Sensors\Chronometer.cs" />
+    <Compile Include="Sensors\Compass.cs" />
+    <Compile Include="Sensors\Kinnect.cs" />
+    <Compile Include="Objects\GameObject.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Objects\Robot.cs" />
+    <Compile Include="Sensors\Ultrasonic.cs" />
+    <Compile Include="Sensors\WebCam.cs" />
+    <Compile Include="Sensors\Weight.cs" />
+    <Compile Include="Flow Control\SouthEast.cs" />
+    <Compile Include="Flow Control\SouthWest.cs" />
+    <Compile Include="Set.cs" />
+    <Compile Include="SetAt.cs" />
+    <Compile Include="Start.cs" />
+    <Compile Include="Zero.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,8 @@
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Probador\bin\Debug\Probador.exe.config
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Probador\bin\Debug\Probador.exe
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Probador\bin\Debug\Probador.pdb
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Probador\bin\Debug\Proyecto 2018-2019 Wall-E.dll
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Probador\bin\Debug\Proyecto 2018-2019 Wall-E.pdb
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Probador\obj\Debug\Probador.csprojResolveAssemblyReference.cache
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Probador\obj\Debug\Probador.exe
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Probador\obj\Debug\Probador.pdb

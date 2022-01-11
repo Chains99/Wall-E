@@ -1,0 +1,13 @@
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Wall_E\bin\Debug\Wall_E.exe.config
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Wall_E\obj\Debug\Wall_E.csprojResolveAssemblyReference.cache
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Wall_E\obj\Debug\Wall_E.Properties.Resources.resources
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Wall_E\obj\Debug\Wall_E.Wall_E.resources
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Wall_E\obj\Debug\Wall_E.csproj.GenerateResource.Cache
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Wall_E\bin\Debug\Wall_E.exe
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Wall_E\bin\Debug\Wall_E.pdb
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Wall_E\obj\Debug\Wall_E.exe
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Wall_E\obj\Debug\Wall_E.pdb
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Wall_E\bin\Debug\Proyecto 2018-2019 Wall-E.dll
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Wall_E\bin\Debug\Proyecto 2018-2019 Wall-E.pdb
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Wall_E\obj\Debug\Wall_E.RobotInstruc.resources
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Wall_E\obj\Debug\Wall_E.Game_Wall_E.resources

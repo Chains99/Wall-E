@@ -1,0 +1,5 @@
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Proyecto 2018-2019 Wall-E\obj\Debug\Proyecto 2018-2019 Wall-E.csprojResolveAssemblyReference.cache
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Proyecto 2018-2019 Wall-E\bin\Debug\Proyecto 2018-2019 Wall-E.dll
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Proyecto 2018-2019 Wall-E\bin\Debug\Proyecto 2018-2019 Wall-E.pdb
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Proyecto 2018-2019 Wall-E\obj\Debug\Proyecto 2018-2019 Wall-E.dll
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto 2018-2019 Wall-E\Proyecto 2018-2019 Wall-E\obj\Debug\Proyecto 2018-2019 Wall-E.pdb
